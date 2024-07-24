@@ -1,6 +1,6 @@
 # Ignite
 
-![GitHub language count](https://img.shields.io/github/languages/count/typingfe/ignite?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/typingfe/ignite-ts?style=for-the-badge)
 
 <img src="./src/assets/ignite-screenshot.png" alt="Project image">
 
